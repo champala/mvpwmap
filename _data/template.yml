@@ -1,0 +1,13 @@
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: ef4f3a
+  secondary: 2e378f
+  secondary-dark: 333
+  secondary-light: eee
+  muted: 999
+
+# Font Families
+font:
+  primary: '"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif'
+  # primary: 'Montserrat, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  secondary: 'Lato, "Helvetica Neue", Helvetica,Arial,sans-serif'

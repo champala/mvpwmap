@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="309.5px" height="149.008px" viewBox="0 0 309.5 149.008" enable-background="new 0 0 309.5 149.008" xml:space="preserve">
+<g id="Objects" display="none">
+	<rect x="-18" y="-32" display="inline" fill="#B7B7B7" width="421" height="350"/>
+</g>
+<g id="top">
+	<g opacity="0.7">
+		
+			<image overflow="visible" enable-background="new    " width="1063" height="896" xlink:href="CE4EE6034DAE3CCD.png"  transform="matrix(0.2386 0 0 0.2381 28.5122 -28.2773)">
+		</image>
+	</g>
+	<path fill="#FFFFFF" d="M227.122,149.008c10.583-14.844,16.81-33.008,16.81-52.627c0-50.123-40.635-90.758-90.76-90.758
+		S62.414,46.259,62.414,96.381c0,19.619,6.226,37.783,16.809,52.627H227.122z"/>
+	<path fill="#EF4F3A" d="M216.521,149.008c11.869-14.27,19.013-32.611,19.013-52.627c0-45.485-36.875-82.361-82.362-82.361
+		c-45.487,0-82.362,36.876-82.362,82.361c0,20.016,7.143,38.355,19.013,52.627H216.521z"/>
+	
+		<radialGradient id="SVGID_1_" cx="442.3018" cy="181.9307" r="25.5199" gradientTransform="matrix(0 0.4524 -5.5982 0 1172.3699 -51.1469)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#9D9D9C"/>
+		<stop  offset="1" style="stop-color:#F4F2E5;stop-opacity:0"/>
+	</radialGradient>
+	<ellipse opacity="0.7" fill="url(#SVGID_1_)" enable-background="new    " cx="153.888" cy="148.951" rx="139.885" ry="13.45"/>
+	<path fill="#EF4F3A" d="M216.236,149.008c11.871-14.27,19.014-32.611,19.014-52.627c0-45.485-36.875-82.361-82.362-82.361
+		c-45.487,0-82.362,36.876-82.362,82.361c0,20.016,7.143,38.355,19.013,52.627H216.236z"/>
+</g>
+<g id="text">
+	<text transform="matrix(1 0 0 1 101.1792 79.6191)" enable-background="new    "><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="21">TEXT</tspan><tspan x="50.162" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="21"> </tspan><tspan x="55.381" y="0" fill="#2E378F" font-family="'Roboto-Medium'" font-size="24">MVP</tspan></text>
+	<text transform="matrix(1 0 0 1 97.9038 123.0527)" enable-background="new    "><tspan x="0" y="0" fill="#FFFFFF" font-family="'Roboto-Regular'" font-size="21">TO</tspan><tspan x="26.619" y="0" fill="#2E378F" font-family="'Roboto-Medium'" font-size="21"> </tspan><tspan x="31.849" y="0" fill="#2E378F" font-family="'Roboto-Medium'" font-size="24">225568</tspan></text>
+</g>
+</svg>
